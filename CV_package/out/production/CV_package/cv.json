@@ -1,0 +1,69 @@
+{
+  "title": "Curriculum Vitae",
+  "photo": {
+    "url": "myPhoto.jpg"
+  },
+  "sections": [
+    {
+      "title": "Wykształcenie",
+      "paragraphs": [
+        {
+          "type": "Paragraph",
+          "content": "2000-2005 Przedszkole im. Królewny Snieżki w ..."
+        },
+        {
+          "type": "Paragraph",
+          "content": "2006-2012 SP7 im Ronalda Regana w ..."
+        }
+      ],
+      "paragraphsWithList": [
+        {
+          "paragraph": {
+            "type": "Paragraph",
+            "content": "Kursy"
+          },
+          "unorderedList": {
+            "unorderedList": [
+              {
+                "content": "Języka Angielskiego"
+              },
+              {
+                "content": "Języka Hiszpańskiego"
+              },
+              {
+                "content": "Szydełkowania"
+              }
+            ]
+          },
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Umiejętności",
+      "paragraphs": [],
+      "paragraphsWithList": [
+        {
+          "paragraph": {
+            "type": "Paragraph",
+            "content": "Znane technologie"
+          },
+          "unorderedList": {
+            "unorderedList": [
+              {
+                "content": "C"
+              },
+              {
+                "content": "C++"
+              },
+              {
+                "content": "Java"
+              }
+            ]
+          },
+          "content": ""
+        }
+      ]
+    }
+  ]
+}
